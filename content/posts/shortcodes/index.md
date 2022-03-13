@@ -11,7 +11,7 @@ hero: boat.jpg
 mermaid: true
 ---
 
-This is a sample post intended to test the followings:
+<!--This is a sample post intended to test the followings:
 
 - Default hero image.
 - Different shortcodes.
@@ -130,7 +130,6 @@ This is line two. It should have `4rem` vertical space with previous line.
 
 {{< video src="/videos/sample.mp4" >}}
 
-<!-- markdown-link-check-disable-next-line -->
 Video by [Rahul Sharma](https://www.pexels.com/@rahul-sharma-493988) from [Pexels](https://www.pexels.com).
 
 ## Mermaid
@@ -141,10 +140,10 @@ Here, are few example of mermaid shortcode.
 
 {{< mermaid align="left" >}}
 graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+    A[Hard edge] --|Link text| B(Round edge)
+    B --| C{Decision}
+    C --||One| D[Result one]
+    C --||Two| E[Result two]
 {{< /mermaid >}}
 
 **Sequence Diagram:**
@@ -158,9 +157,9 @@ sequenceDiagram
         John->>John: Fight against hypochondria
     end
     Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
+    John--|>Alice: Great!
     John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+    Bob--|>John: Jolly good!
 {{< /mermaid >}}
 
 **Gantt diagram:**
@@ -186,7 +185,7 @@ classDiagram
   Class03 *-- Class04
   Class05 o-- Class06
   Class07 .. Class08
-  Class09 --> C2 : Where am i?
+  Class09 --| C2 : Where am i?
   Class09 --* C3
   Class09 --|> Class07
   Class07 : equals()
@@ -194,7 +193,7 @@ classDiagram
   Class01 : size()
   Class01 : int chimp
   Class01 : int gorilla
-  Class08 <--> C2: Cool label
+  Class08 <--| C2: Cool label
 {{< /mermaid >}}
 
 **Git Graph:**
@@ -226,3 +225,5 @@ erDiagram
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 {{< /mermaid >}}
+
+-->
