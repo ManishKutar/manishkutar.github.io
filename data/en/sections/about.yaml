@@ -31,40 +31,40 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/manishkutar"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/manishkutar"
+  url: "https://www.linkedin.com/in/manishkutar/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Microsoft Azure Data Fundamentals
+  url: "https://www.credly.com/badges/7510a69d-d6ee-46d9-a9d6-b6bdb4d3c95b"
+  badge: "https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Microsoft Dynamics Fundamentals CRM
+  url: "https://www.credly.com/badges/956fabd9-8cc1-4422-869a-e621a2d00e54/linked_in_profile"
+  badge: "https://images.credly.com/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Microsoft Dynamics Business Central Functional Associate
+  url: "https://www.credly.com/badges/22bb2d23-d422-4bd0-9902-e472e5133568/linked_in_profile"
+  badge: "https://images.credly.com/images/71e5d2de-e832-4d29-81cb-e958ff7833af/CERT-Associate-Dynamics365-Business-Central-Functional-Consultant.png"
 
 - type: soft-skill-indicator
   name: Leadership
