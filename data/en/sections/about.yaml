@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate Technical Leader with around 11 years of working experience. I built solutions for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate Technical Leader with above decade of years of working experience. I built solutions for [Microsoft Dynamics 365 Business Central, NAV, CRM](https://docs.microsoft.com/en-us/dynamics365/business-central/) using different tools. My solutions help business to grow, strategize plan, reduce workloads in Organization. Sometimes, I work on some fun projects such as creating an addon, or learn new technologies and get certified in them.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -38,6 +38,10 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/manishkutar/"
+
+- name: Wordpress
+  icon: "fab fa-wordpress"
+  url: "https://manishkutar.wordpress.com/"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
@@ -78,9 +82,9 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 90
   color: orange
-
+  
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
