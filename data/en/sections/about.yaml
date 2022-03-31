@@ -12,10 +12,6 @@ designation: Technical Lead
 # your company information
 company:
   name: Winspire Solutions Pte Ltd
-  url: "https://www.example.com"
-
-# your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate Technical Leader with above decade of years of working experience. I built solutions for [Microsoft Dynamics 365 Business Central, NAV, CRM](https://docs.microsoft.com/en-us/dynamics365/business-central/) using different tools. My solutions help business to grow, strategize plan, reduce workloads in Organization. Sometimes, I work on some fun projects such as creating an addon, or learn new technologies and get certified in them.'

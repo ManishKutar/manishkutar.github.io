@@ -8,39 +8,35 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Microsoft Certified - Azure Data Fundamentals
+  timeline: "Feb 2022"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Microsoft
+  courseOverview: "Demonstrates foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services."
+  certificateURL: "https://www.credly.com/badges/7510a69d-d6ee-46d9-a9d6-b6bdb4d3c95b"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Microsoft Certified - Dynamics 365 Fundamentals (CRM)
+  timeline: "May 2021"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Microsoft
+  courseOverview: "Demonstrate relevant work experience in an Information Technology (IT) environment. Candidates have a fundamental understanding of the customer engagement capabilities of Dynamics 365."
+  certificateURL: "https://www.credly.com/badges/956fabd9-8cc1-4422-869a-e621a2d00e54/linked_in_profile"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Microsoft Certified - Dynamics 365 Business Central Functional Consultant Associate
+  timeline: "Oct 2020 - Apr 2023"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Microsoft
+  courseOverview: "Validates the skills and knowledge to implement core application setup processes for small and medium businesses. Candidates have applied knowledge of meeting user needs through the Business Central app, including a basic understanding of financial management, sales, purchasing, and inventory. Candidates for this certification specialize in one or more feature sets of Business Central."
+  certificateURL: "https://www.credly.com/badges/22bb2d23-d422-4bd0-9902-e472e5133568/linked_in_profile"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+#- name: Mastering Multithreading Programming with Go (Golang)
+#  timeline: "Nov 2017 - Mar 2018"
+#  organization:
+#    name: Udemy
+#    url: https://www.udemy.com
+#  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+#  certificateURL: "https://example.com"
  
 

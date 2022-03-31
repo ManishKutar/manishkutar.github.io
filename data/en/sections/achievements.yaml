@@ -10,15 +10,12 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
 - title: Champion
   image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Played for Cricket club such as Stockholm Cricket Club, Malta A, Marsa Sports Club, and so on.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+  summary: Received Masters (MBA) in Consultancy Management, BITS Pilani University and Bachelors of Engineering in Computers from North Maharashtra University.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  summary: Employee of the Quarter (year 2016), Capgemini - For projects in Scandinavian region. WAU-G (We Appreciate U - Godrej), Godrej Infotech Ltd - For various projects in India.

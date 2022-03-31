@@ -15,7 +15,7 @@ experiences:
     # url: "https://www.example.com"
     location: Singapore
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: It provides IT services to various companies in across World.
   positions:
   - designation: Technical Lead
     start: Aug 2021
@@ -23,70 +23,70 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Team handling.
+    - Project Lead.
+    - Training and Innovations.
 
   - designation: Application Consultant
     start: Aug 2021
     end: Dec 2018
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Implement and support various projects on ERP.
+    - Support client for ERP tools.
 
 - company:
     name: KPMG Crimsonwing
-    url: "https://www.example.com"
+    #url: "https://www.example.com"
     location: Malta
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Senior Analyst Programmer
     start: June 2018
     end: Nov 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop on the projects.
+    - Customer handling.
+    - Solutioning
 
 - company:
     name: Canarys Automations Pvt Ltd
-    url: "https://www.example.com"
+    #url: "https://www.example.com"
     location: India
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Provider of add-ons and services on ERP tools across region.
   positions:
-  - designation: Intern
+  - designation: Senior Technical Consultant
     start: Dec 2016
     end: June 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Lead team of various skillsets - Add-on developers, support, upgrade team.
+    - Training and mentoring.
+    - QA.
 
 - company:
     name: Capgemini Group
-    url: "https://www.example.com"
+    #url: "https://www.example.com"
     location: Sweden and India
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Well known organization. Microsoft Partner.
   positions:
   - designation: Senior Consultant
     start: Sep 2014
     end: Dec 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Handling projects in Sweden (on-site and off-site).
+    - Requirement gathering with customers (usually on-site).
+    - Release management using Agile methodology.
+    - Scheduling releases based on sprints.
 
 - company:
     name: Godrej Infotech Pvt Ltd
-    url: "https://www.example.com"
+    #url: "https://www.example.com"
     location: India
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: IT Service provides to various organizations in India and South East Asia.
   positions:
   - designation: Assistant Manager
     start: Dec 2010
     end: Sep 2014
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Started as developer.
+    - Supporting projects.
+    - Learning new skills.
