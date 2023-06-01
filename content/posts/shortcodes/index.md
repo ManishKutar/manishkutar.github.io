@@ -10,6 +10,27 @@ menu:
 hero: boat.jpg
 mermaid: true
 ---
+This is a sample post intended to test the followings:
+
+- A different post author.
+- Table of contents.
+- Markdown content rendering.
+- Math rendering.
+- Emoji rendering.
+
+---
+# Markdown Syntax Rendering
+
+## Headings
+
+The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 <!--This is a sample post intended to test the followings:
 
